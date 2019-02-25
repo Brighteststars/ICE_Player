@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/background.png</file>
+        <file>Resources/default_album.jpg</file>
+        <file>Resources/playBtn1.png</file>
+        <file>Resources/playBtn2.png</file>
+        <file>Resources/pauseIcon.png</file>
+        <file>Resources/pauseIconFocus.png</file>
+        <file>Resources/minBtn.png</file>
+        <file>Resources/minBtnFocus.png</file>
+        <file>Resources/topLeftLogoBtn.png</file>
+        <file>Resources/topLeftLogoBtn2.png</file>
+        <file>Resources/miniBtn.png</file>
+        <file>Resources/miniBtn2.png</file>
+        <file>Resources/exitBtn.png</file>
+        <file>Resources/exitBtn2.png</file>
+        <file>Resources/addBtn.png</file>
+        <file>Resources/addBtn2.png</file>
+        <file>Resources/lyric.png</file>
+        <file>Resources/lyricBtnFocus.png</file>
+        <file>Resources/lastBtn.png</file>
+        <file>Resources/lastBtn2.png</file>
+        <file>Resources/nextBtn.png</file>
+        <file>Resources/nextBtn2.png</file>
+        <file>Resources/playMode.png</file>
+        <file>Resources/playMode2.png</file>
+        <file>Resources/volBtn.png</file>
+        <file>Resources/volBtn2.png</file>
+        <file>Resources/logo.ico</file>
+    </qresource>
+</RCC>

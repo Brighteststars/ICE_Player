@@ -1,0 +1,34 @@
+﻿生成启动时间为 2019/2/14 16:49:54。
+     1>项目“D:\Documents\ICE_PLAYER\ICE_PLAYER.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing icebutton.h...
+         Moc'ing icelabel.h...
+         Moc'ing iceplayer.h...
+         Moc'ing icevolbutton.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /IC:\Qt\Qt5.6.2\5.6\msvc2013\include /IC:\Qt\Qt5.6.2\5.6\msvc2013\include\QtMultimedia /IC:\Qt\Qt5.6.2\5.6\msvc2013\include\QtWidgets /IC:\Qt\Qt5.6.2\5.6\msvc2013\include\QtGui /IC:\Qt\Qt5.6.2\5.6\msvc2013\include\QtANGLE /IC:\Qt\Qt5.6.2\5.6\msvc2013\include\QtNetwork /IC:\Qt\Qt5.6.2\5.6\msvc2013\include\QtCore /Idebug /I. /I"C:\Qt\Qt5.6.2\5.6\msvc2013\mkspecs\win32-msvc2013" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_MULTIMEDIA_LIB /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -w34100 -w34189 -w44996 Debug\moc_icebutton.cpp Debug\moc_icelabel.cpp Debug\moc_iceplayer.cpp Debug\moc_icevolbutton.cpp
+         moc_icebutton.cpp
+         moc_icelabel.cpp
+     1>d:\documents\ice_player\debug\../icelabel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         moc_iceplayer.cpp
+         moc_icevolbutton.cpp
+     1>d:\documents\ice_player\debug\../icevolbutton.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"debug\\ICE_PLAYER.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.6.2\5.6\msvc2013\lib /LIBPATH:C:\utils\my_sql\my_sql\lib /LIBPATH:C:\utils\postgresql\pgsql\lib /LIBPATH:C:\Qt\Qt5.6.2\5.6\msvc2013\lib C:\Qt\Qt5.6.2\5.6\msvc2013\lib\qtmaind.lib shell32.lib C:\Qt\Qt5.6.2\5.6\msvc2013\lib\Qt5Multimediad.lib C:\Qt\Qt5.6.2\5.6\msvc2013\lib\Qt5Widgetsd.lib C:\Qt\Qt5.6.2\5.6\msvc2013\lib\Qt5Guid.lib C:\Qt\Qt5.6.2\5.6\msvc2013\lib\Qt5Networkd.lib C:\Qt\Qt5.6.2\5.6\msvc2013\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"debug\ICE_PLAYER.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" Win32\Debug\moc_icebutton.obj
+         Win32\Debug\moc_icelabel.obj
+         Win32\Debug\moc_iceplayer.obj
+         Win32\Debug\moc_icevolbutton.obj
+         Win32\Debug\qrc_resources.obj
+         Win32\Debug\icebutton.obj
+         Win32\Debug\icelabel.obj
+         Win32\Debug\iceplayer.obj
+         Win32\Debug\icevolbutton.obj
+         Win32\Debug\main.obj
+         Win32\Debug\nofocusdelegate.obj
+         ICE_PLAYER.vcxproj -> D:\Documents\ICE_PLAYER\debug\ICE_PLAYER.exe
+     1>已完成生成项目“D:\Documents\ICE_PLAYER\ICE_PLAYER.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:19.81
